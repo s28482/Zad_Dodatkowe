@@ -41,7 +41,7 @@ public class MyDbContext : DbContext
 
             }
         };
-        modelBuilder.Entity<EventSpeaker>().HasData(events);
+        modelBuilder.Entity<Event>().HasData(events);
 
         var speakers = new List<Speaker>
         {
@@ -81,15 +81,15 @@ public class MyDbContext : DbContext
         };
         modelBuilder.Entity<Participant>().HasData(participants);
 
-        var eventSpeaker = new List<EventSpeaker>
+        var s = new List<EventSpeaker>
         {
             new EventSpeaker
             {
-                EventSpeakerId = 1,
-                EventId = 1
-            }
+              SpeakerId = 1,
+              EventId = 1
+              }
         };
-        modelBuilder.Entity<EventSpeaker>().HasData(eventSpeaker);
+        modelBuilder.Entity<EventSpeaker>().HasData(s);
 
         var eventParticipant = new List<EventParticipant>
         {
