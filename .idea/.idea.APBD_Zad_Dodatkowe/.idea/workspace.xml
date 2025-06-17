@@ -8,16 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e50cf44c-a25f-451a-8c9f-8afa6f8f97e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data/MyDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Event.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Participant.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/DbService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APBD_Zad_Dodatkowe.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/APBD_Zad_Dodatkowe.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
-    </list>
+    <list default="true" id="e50cf44c-a25f-451a-8c9f-8afa6f8f97e6" name="Changes" comment="init1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +17,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/s28482/Zad_Dodatkowe",
+    "accountId": "721d2276-0914-4723-b81d-8062c8c4c9d1"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -89,16 +87,28 @@
       <option name="presentableId" value="Default" />
       <updated>1750156791040</updated>
       <workItem from="1750156792063" duration="4260000" />
-      <workItem from="1750187928247" duration="4728000" />
+      <workItem from="1750187928247" duration="5179000" />
     </task>
+    <task id="LOCAL-00001" summary="init1">
+      <option name="closed" value="true" />
+      <created>1750193049597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750193049597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="init1" />
+    <option name="LAST_COMMIT_MESSAGE" value="init1" />
   </component>
 </project>
