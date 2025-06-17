@@ -9,16 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e50cf44c-a25f-451a-8c9f-8afa6f8f97e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/dataSources/38ed100a-cbda-498e-9551-87eaffe7d7d3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/dataSources/38ed100a-cbda-498e-9551-87eaffe7d7d3/storage_v2/_src_/database/s28482.lSUYxw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/dataSources/38ed100a-cbda-498e-9551-87eaffe7d7d3/storage_v2/_src_/database/s28482.lSUYxw/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/dataSources/38ed100a-cbda-498e-9551-87eaffe7d7d3/storage_v2/_src_/database/s28482.lSUYxw/schema/dbo.sYMBAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/EventParticipant.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/EventSpeaker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Speaker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.APBD_Zad_Dodatkowe/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/MyDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/MyDbContext.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
   <component name="KubernetesApiProvider"><![CDATA[{
   "isMigrated": true
 }]]></component>
@@ -44,7 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",

@@ -6,7 +6,7 @@ namespace APBD_Zad_Dodatkowe.Data;
 public class MyDbContext : DbContext
 {
     
-    // zarejestrowac modele
+    // zarejestrowac modele tu
     public DbSet<Event> Events { get; set; }
     public DbSet<Speaker> Speakers { get; set; }
     public DbSet<Participant> Participants { get; set; }
@@ -40,6 +40,7 @@ public class MyDbContext : DbContext
                 MaxParticipants = 2
 
             }
+        
         };
         modelBuilder.Entity<Event>().HasData(events);
 
